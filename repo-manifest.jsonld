@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/upskill/commit/eec8ab46f970a880e4d21cfd41dff50ac08c6847",
       "git:hexsha": "eec8ab46f970a880e4d21cfd41dff50ac08c6847",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T14:25:01.012681+00:00"
     }
   ]
 }
